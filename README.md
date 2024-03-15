@@ -1,5 +1,4 @@
 ## Sublist3r: Subdomain Enumeration for Beginners
-![Screenshot_2024-03-14_10_27_30](https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners/assets/53940361/b9e29ebb-db04-423c-9919-9b69cffd596a)
 
 
 **Objective:**
