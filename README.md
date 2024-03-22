@@ -22,9 +22,7 @@ Basic Usage:
 Open a terminal window.
 Execute the following command:
 sublist3r -d  bbc.com
-![sublistr](https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners/assets/53940361/8cc8c2d2-f771-48da-9ac9-61bb3f31ae74)
-
-
+<img src="https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners/assets/53940361/8cc8c2d2-f771-48da-9ac9-61bb3f31ae74">
 
 
 **Subheading:**  Installation and Dependencies
@@ -79,15 +77,7 @@ sublist3r -d  bbc.com
   2. Use online tools like ping or a web browser to verify the functionality of each subdomain. Exercise caution when visiting unknown websites.
   3. Depending on your goals, you may further categorize the subdomains based on their purpose (e.g., mail servers, content delivery networks).
 
-**4. (Optional) Advanced Usage:**
-
 * **Explanation:** Sublist3r offers various options to customize the enumeration process. This section provides a brief overview (if applicable).
-
-* **Content:** Briefly explain some advanced options Sublist3r provides, such as:
-
-    * Specifying a wordlist for brute-forcing subdomains.
-    * Excluding specific subdomains from the search.
-    * Saving the results to a file.
 
 **5. Conclusion:**
 
