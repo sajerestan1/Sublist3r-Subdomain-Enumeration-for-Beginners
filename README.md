@@ -22,6 +22,8 @@ Basic Usage:
 Open a terminal window.
 Execute the following command:
 sublist3r -d  bbc.com
+![sublistr](https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners/assets/53940361/8cc8c2d2-f771-48da-9ac9-61bb3f31ae74)
+
 
 
 
@@ -60,6 +62,8 @@ sublist3r -d  bbc.com
       ```bash
       python sublist3r.py bbc.com
       ```
+![sublistr2](https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners/assets/53940361/c42063bd-f62b-47d4-972b-609093c6553b)
+
 
   3. Sublist3r will initiate the enumeration process and display a list of discovered subdomains on the terminal.
 
